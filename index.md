@@ -7,7 +7,7 @@
 ```
 I believe that CSE student prefer money rather than a relationship, that's why I just use a interesting picture of mine! LOL! If you are afraid of heart attack, think twice before you click the link
 ```
-[link to my picture](docs/me.jpeg)
+[link to my picture](me.jpeg)
 
 [see me here](#me)
 
