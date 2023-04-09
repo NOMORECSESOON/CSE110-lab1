@@ -14,6 +14,10 @@ I believe that CSE student prefer money rather than a relationship, that's why I
 
 >where I learn how to write markdown file?[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+- [x] think twice if you want to see my picture
+- [x] think twice if you want to see my picture
+- [x] think twice if you want to see my picture
+  
 - think twice if you want to see my picture
 - think twice if you want to see my picture
 - think twice if you want to see my picture
